@@ -24,8 +24,8 @@ sit323-2025-prac10p/
 ### a. Initialize Node.js App
 
 ```sh
-mkdir cloud-native-monitoring
-cd cloud-native-monitoring
+mkdir sit323-2025-prac10p
+cd sit323-2025-prac10p
 mkdir app
 cd app
 npm init -y
